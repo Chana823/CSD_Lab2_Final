@@ -2,6 +2,8 @@
 
 This is the lab 2 exercise of the contemporary software development module which is in the second semester of Master in Information Systems at Departmentment of Informatics 
 and media at Uppsala University Sweden 2021.
+This is a point game where the input is given as two command line arguments and respond with the point score for the point provided in the first argument, rounded to the nearest
+integer.
 
 The program consist of 5 classes except the main class namely Point, Shape, Circle, Square and Builder. Once the two input arguments has given to the command terminal, 
 the entry point to the program, main method runs which contains a string array of arguments (args). The two string arguments (args[0],args[1]) will be passed to the newly 
